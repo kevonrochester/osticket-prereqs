@@ -64,3 +64,21 @@ created to sign in.
 
 we are going to install IIS ( internet information services). We will go to control panel go into programs. And then click turn windows features on and off. We will turn on Cgi which is under the " APPLICATION Development Features " and turn everything on under " Common HTTP Features". Then after you click OK it will install IIS.
 To test it and make sure it works you will go to 127.0.0.1 and if it did not work just uncheck and recheck the items again until it works because you probably missed something
+
+
+![Screenshot 2024-01-03 172206](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/70174258-1033-4074-961e-5476d5fe875f)
+
+Then we will install PHP MANAGER for IIS.
+
+![Screenshot 2024-01-03 172327](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/1dc64fe3-aa48-4fcc-9da2-ee90c89c9136)
+
+
+Then we will install " IIS URL Rewrite MODULE 2 "
+
+![Screenshot 2024-01-03 172504](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/588e64c6-8562-40a2-9b2d-ac2c6550321f)
+![Screenshot 2024-01-03 172936](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/c34e9a08-d5a1-49c8-bb1a-ed9c9818886c)
+
+
+
+Then we will create PHP folder on the windows C Drive. After that we will  Extract the PHP file into that PHP folder we created.
+
