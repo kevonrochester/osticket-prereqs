@@ -52,6 +52,15 @@ Here we are creating our virtual machine. We will be placing this virtual machin
 
 
 
-Here we are copying the i.p address that is found in our virtual machines tab and if you click the name of your virtual machine you can easily copy your I.P address of your virtual machine and connect to your VM using Remote desktop and using the information created to sign in.
+Here we are copying the i.p address that is found in our virtual machines tab and if you click the name of your virtual machine you can easily copy your I.P address of your virtual machine and connect to your VM using Remote desktop and using the information 
+created to sign in.
 </p>
 <br />
+
+![Screenshot 2024-01-08 143751](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/93b20141-d32b-47da-a190-59412bfaea8d)
+![Screenshot 2024-01-03 163959](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/f4e39652-e6ee-4494-83ad-9084ce4b1d35)
+![Screenshot 2024-01-08 143828](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/d0643f87-79ac-4164-a04d-93b4e3d069d2)
+
+
+we are going to install IIS ( internet information services). We will go to control panel go into programs. And then click turn windows features on and off. We will turn on Cgi which is under the " APPLICATION Development Features " and turn everything on under " Common HTTP Features". Then after you click OK it will install IIS.
+To test it and make sure it works you will go to 127.0.0.1 and if it did not work just uncheck and recheck the items again until it works because you probably missed something
