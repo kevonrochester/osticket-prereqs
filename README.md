@@ -31,11 +31,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Config permissions and install OSTicket
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![rs group](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/03493dc8-1c2c-426d-8dd0-35d390e39365)
+
+![Screenshot 2024-01-03 162227](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/51fa8f17-35f0-4a7a-93e6-aec302cf90c4)
+
+
+The first thing we are going to do is go to Portal.Azure.com where we will be creating our resource group and eventually later on in this tutorial create our virtual machine and connect to it using Remote desktop or a Mac Equivalent but i am on pc so we will be using Remote desktop.
 </p>
 <br />
 
