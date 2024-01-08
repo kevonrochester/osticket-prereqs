@@ -104,3 +104,31 @@ and we will rename the upload ticket to osTicket.
 
 Within the IIS we will go into the sites-Default web site- osticket and "BROWSE*80" ( on the right side of IIS)  to test if it works. Once tested We will Enable PHP Extensions so that the IIS can run more efficiently because it is recommended by osticket.
 so in IIS - sites-default-osticket we will open php manager- click enable or disable an extension and enable php_imap Php_intil Php_opcache
+
+![Screenshot 2024-01-05 131343](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/2951395a-52b9-452a-94b1-761ce9e9fec4)
+![Screenshot 2024-01-08 151819](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/93e9bda6-c6c0-4c31-a14b-7b90c34a1caa)
+
+Moving forward we will go back into wwwroot folder ( inside the windows c-inetpub folder) go to osticket-include and rename "ostsampleconfig.php" to "ost-config.php"
+Then we will change the permissions on file "ost-config.php" we will right click it - go to properties- go to sercurity- advance - disable inheritance - then click add - select principle and add type everyone in the box- click check names - then give full control
+
+![Screenshot 2024-01-05 132344](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/6545d7fb-88b1-40f0-a631-894cb02fa1df)
+![Screenshot 2024-01-05 133020](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/1a344ddb-f1c6-4868-8ad9-7fad88fe0326)
+
+
+Then we will continue to set up os ticket you can put what information you want just make sure to remember it. But before we are done we must download and install heidisql to connect to our sql server
+within HeidiSql we will click new and sign in with the username and password you set up from my sqlserver and the connection is made. Finally we will go into heidisql and create our server and call it os ticket and then finish the install on osticket.
+
+![Screenshot 2024-01-05 133330](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/974e029b-3813-476a-82cb-dc03a3f9641c)
+![Screenshot 2024-01-08 152637](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/53704fef-733e-4295-a250-9b23cb16599e)
+
+
+After the install we will go into the windowsc-inetpub-wwwroot-osticket and delete the set up folder. We will go back to (this pc > Windows c > inetpub > wwwroot > osTicket > include > ost-config.php file and change the security too read only.
+
+![Screenshot 2024-01-08 152947](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/59b6df74-3d57-406f-aaf3-c34fd586264a)
+
+osticket is install but to check go to http://localhost/osTicket/scp/login.php and login with the username and password you set up.
+
+
+
+
+
