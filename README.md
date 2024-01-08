@@ -46,10 +46,12 @@ Here we are creating our virtual machine. We will be placing this virtual machin
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2024-01-08 142617](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/176a4c72-a973-4ae6-917a-550f19032bd8)
+![Screenshot 2024-01-03 163216](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/f67910a4-fee1-410f-982e-6bba01ee422b)
+![Screenshot 2024-01-08 141411](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/6e3983c5-b445-49d3-96aa-1fa460b33568)
+
+
+
+Here we are copying the i.p address that is found in our virtual machines tab and if you click the name of your virtual machine you can easily copy your I.P address of your virtual machine and connect to your VM using Remote desktop and using the information created to sign in.
 </p>
 <br />
