@@ -97,3 +97,10 @@ Then we will download the VC_redist.X86 as per required by php and  we will down
 Now we will run IIS as a ADMIN and install OsTICKET. But first after running iis we registered php. After that will upload the OSticket upload folder into ( windows C memory - under inetpub into the ROOTfolder)
 and we will rename the upload ticket to osTicket.
 
+
+![Screenshot 2024-01-05 130525](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/5add1766-dd50-468d-90e3-378c4dbef6bd)
+![Screenshot 2024-01-05 131134](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/8b8c70c6-cee2-4f8a-9c53-a14eb00aa215)
+
+
+Within the IIS we will go into the sites-Default web site- osticket and brownse 80 to est to see if it works. We will Enable PHP Extensions so that the IIS can run more efficiently because it is recommended by osticket.
+so in IIS - sites-default-osticket we will open php manager- click enable or disable an extension and enable php_imap Php_intil Php_opcache
