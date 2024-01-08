@@ -89,3 +89,11 @@ Then we will create PHP folder on the windows C Drive. After that we will  Extra
 
 Then we will download the VC_redist.X86 as per required by php and  we will download MySQL Server ( which is installing a data base on the computer considering osTicket is an online Program)
 
+![Screenshot 2024-01-08 145830](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/d5da12e6-9136-41a3-85d4-eb1fbeb51c32)
+![Screenshot 2024-01-03 174149](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/61a1a2e5-cb91-4d11-98af-984d1e826c51)
+![Screenshot 2024-01-05 130038](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/1e2f1643-5662-4fe2-9b17-3b7ddfc6899e)
+
+
+Now we will run IIS as a ADMIN and install OsTICKET. But first after running iis we registered php. After that will upload the OSticket upload folder into ( windows C memory - under inetpub into the ROOTfolder)
+and we will rename the upload ticket to osTicket.
+
