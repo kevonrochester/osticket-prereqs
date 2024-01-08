@@ -40,11 +40,9 @@ The first thing we are going to do is go to Portal.Azure.com where we will be cr
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+![Screenshot 2024-01-03 162446](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/69644701-9546-44fd-9634-d36d2e3d4a44)
+
+Here we are creating our virtual machine. We will be placing this virtual machine inside of the resource group that we have created before ( mine is called osTicket but the name doesnt matter). I will be using the virtual pc specs of a 4 core processor and 16 gb of ram today for this tutortial and i will be naming our virtual machine VM-osticket . Then we will create a username and password ( i will be using lab user) but remember to know the information as we will be using it to connect to our Virtual machine using remote desktop.
 </p>
 <br />
 
