@@ -82,3 +82,10 @@ Then we will install " IIS URL Rewrite MODULE 2 "
 
 Then we will create PHP folder on the windows C Drive. After that we will  Extract the PHP file into that PHP folder we created.
 
+![Screenshot 2024-01-08 145350](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/e4392bd3-4a79-4026-b8dc-7b1d1da0dbd4)
+
+![Screenshot 2024-01-03 173620](https://github.com/kevonrochester/osticket-prereqs/assets/155024615/6d484968-700c-4901-975b-8f77d25795cc)
+
+
+Then we will download the VC_redist.X86 as per required by php and  we will download MySQL Server ( which is installing a data base on the computer considering osTicket is an online Program)
+
